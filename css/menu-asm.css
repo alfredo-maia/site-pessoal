@@ -1,0 +1,190 @@
+@charset "UTF-8";
+
+ul#albun-fotos {
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+    color: white;
+    padding: 5px;
+    position: relative;
+    left: 0%;
+}
+
+ul#albun-fotos li span {
+    opacity: 1;
+    color: orange;
+    text-shadow: 1px 1px 1px #FFF;
+    font-size: 12pt;
+    line-height: 370px;
+    padding: 5px;
+    text-align: center;
+}
+
+ul#albun-fotos li span:hover {
+    font-size: 10pt;
+    border-color: orange;
+}
+
+
+ul#albun-fotos li {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 7px;
+    border: 0.5px solid white;
+    background-color: white;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.4);
+    display: inline-grid;
+}
+
+ul#albun-fotos li#foto01{
+    background: url("../imagens/Fone.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 130px 130px;
+}
+
+
+ul#albun-fotos li#foto01:hover {
+    border-color: orange;
+  
+}
+
+
+ul#albun-fotos li#foto02{
+    background: url("../imagens/laptop.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 170px 170px;
+}
+
+ul#albun-fotos li#foto02:hover {
+    border-color: orange;
+  
+}
+
+ul#albun-fotos li#foto03{
+    background: url("../imagens/pc.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 130px 130px;
+}
+
+ul#albun-fotos li#foto03:hover {
+    border-color: orange;
+  
+}
+
+ul#albun-fotos li#foto04{
+    background: url("../imagens/Fax.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 140px 140px;
+}
+
+ul#albun-fotos li#foto04:hover {
+    border-color: orange;
+  
+}
+
+ul#albun-fotos li#foto05{
+    background: url("../imagens/Net.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 150px 150px;
+}
+
+ul#albun-fotos li#foto05:hover {
+    border-color: orange;
+  
+}
+
+
+ul#albun-fotos li#foto06{
+    background: url("../imagens/Email.gif") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 140px 140px;
+}
+
+ul#albun-fotos li#foto06:hover {
+    border-color: orange;
+  
+}
+
+ul#albun-fotos li#foto07{
+    background: url("../imagens/Plugs.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 140px 140px;
+}
+
+ul#albun-fotos li#foto07:hover {
+    border-color: orange;
+  
+}
+
+ul#albun-fotos li#foto08{
+    background: url("../imagens/Reu.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 150px 150px;
+}
+
+ul#albun-fotos li#foto08:hover {
+    border-color: orange;
+  
+}
+
+ul#albun-fotos li#foto09{
+    background: url("../imagens/Programas.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 140px 140px;
+}
+
+ul#albun-fotos li#foto09:hover {
+    border-color: orange;
+  
+}
+
+ul#albun-fotos li#foto10{
+    background: url("../imagens/Laptop.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 150px 150px;
+}
+
+ul#albun-fotos li#foto10:hover {
+    border-color: orange;
+  
+}
+
+ul#albun-fotos li#foto11{
+    background: url("../imagens/Printer.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 130px 130px;
+}
+
+ul#albun-fotos li#foto11:hover {
+    border-color: orange;
+  
+}
+
+
+ul#albun-fotos li#foto12{
+    background: url("../imagens/Wifi.png") no-repeat;
+    background-position: 50% 50%;
+    background-color: white;
+    background-size: 150px 150px;
+}
+
+ul#albun-fotos li#foto12:hover {
+    border-color: orange;
+  
+}
+
+
